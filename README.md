@@ -182,6 +182,7 @@ AI tools were used intentionally for parts of this project, as required by the t
 ## Known Issues
 
 - When too many customers (AI) queue at the checkout, some of them may get stuck due to navigation congestion. In certain cases, clients block each other and are unable to exit the store properly.
+- if the end of the day is triggered while the player is actively interacting with an object (holding or operating it), the player character may remain locked and unable to move until the next game cycle.
 
 ---
 
@@ -209,6 +210,7 @@ AI tools were used intentionally for parts of this project, as required by the t
 - Expand the product catalog: consoles, accessories, merchandise, figurines, retro games, used games, etc.
 - Add store expansion and upgrade mechanics (bigger shop, more shelves, faster checkout machines).
 - Introduce customer personality types that influence buying behavior.
+- Save/Load System
 
 ### AI & Animation
 - Improve customer animations and add more idle, browsing, and reaction behaviors.
