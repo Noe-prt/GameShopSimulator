@@ -183,6 +183,7 @@ AI tools were used intentionally for parts of this project, as required by the t
 
 - When too many customers (AI) queue at the checkout, some of them may get stuck due to navigation congestion. In certain cases, clients block each other and are unable to exit the store properly.
 - if the end of the day is triggered while the player is actively interacting with an object (holding or operating it), the player character may remain locked and unable to move until the next game cycle.
+- If the day ends while a purchase is still in progress, the checkout widget with the ongoing transaction and the credit card remains stuck inside the machine.
 
 ---
 
@@ -211,6 +212,9 @@ AI tools were used intentionally for parts of this project, as required by the t
 - Add store expansion and upgrade mechanics (bigger shop, more shelves, faster checkout machines).
 - Introduce customer personality types that influence buying behavior.
 - Save/Load System
+- Allow customers to purchase multiple items at once.
+- Add more sound effects to improve feedback and immersion.
+- Expand object interactions, including support for cash payments.
 
 ### AI & Animation
 - Improve customer animations and add more idle, browsing, and reaction behaviors.
