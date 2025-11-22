@@ -215,6 +215,7 @@ AI tools were used intentionally for parts of this project, as required by the t
 - Allow customers to purchase multiple items at once.
 - Add more sound effects to improve feedback and immersion.
 - Expand object interactions, including support for cash payments.
+- Implement a system for accepting used games and reselling them as second-hand items.
 
 ### AI & Animation
 - Improve customer animations and add more idle, browsing, and reaction behaviors.
