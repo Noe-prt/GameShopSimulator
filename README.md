@@ -17,6 +17,7 @@ This project was built in about one week as part of the **Adzap UE5 Take-Home Te
 **Interaction**
 - `E` – Interact
 - `F` – End of day
+- `G` – Drop item
 
 ---
 
